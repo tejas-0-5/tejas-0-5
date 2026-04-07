@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tejas-pathak-478310213/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:asktejas.08@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:asktejas05@gmail.com)
 [![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square\&logo=amazon-aws\&logoColor=white)](https://drive.google.com/file/d/12Lk38ynWSi6oUOu6z1fmN2VeuUqPWwdf/view?usp=sharing)
 
 </div>
