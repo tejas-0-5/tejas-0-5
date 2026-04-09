@@ -1,139 +1,140 @@
-# 🚨 FraudShield AI
+<div align="center">
 
-**AI-Powered Fraud Detection System**
+# Tejas Pathak
 
----
+**Cloud · Data · AI Systems · Execution**
 
-## 📌 Overview
+*Final-year B.Tech CSE · AWS Certified Cloud Practitioner*
 
-FraudShield AI is a machine learning-based fraud detection system designed to identify suspicious transactions in real-time by analyzing patterns and anomalies in data.
+<br/>
 
-The system focuses on detecting fraudulent behavior using classification models and data-driven insights — helping simulate how real-world financial systems prevent fraud.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tejas-pathak-478310213/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:asktejas05@gmail.com)
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square\&logo=amazon-aws\&logoColor=white)](https://drive.google.com/file/d/12Lk38ynWSi6oUOu6z1fmN2VeuUqPWwdf/view)
 
----
-
-## 🎯 Problem Statement
-
-Financial fraud is a major challenge in digital transactions. Traditional rule-based systems often fail to detect new or evolving fraud patterns.
-
-This project aims to:
-
-* Detect fraudulent transactions using machine learning
-* Reduce false positives
-* Identify hidden patterns in transaction data
+</div>
 
 ---
 
-## 🧠 Solution Approach
+## About
 
-1. Data preprocessing and cleaning
-2. Feature engineering (transaction patterns, frequency, anomalies)
-3. Model training using classification algorithms
-4. Model evaluation using accuracy, precision, recall, F1-score
-5. Fraud prediction on new/unseen data
+I'm a final-year Computer Science student working across cloud infrastructure, AI systems, data analytics, and full-stack development — with a strong focus on structured execution and real-world problem solving.
 
----
+I don’t just build features — I focus on **how systems behave, scale, fail, and recover**, and how to make them reliable.
 
-## 🏗️ Architecture
+* ☁️ AWS Certified · Serverless Architecture · Cloud Systems
+* 🧠 AI/ML Systems · Fraud Detection · Data-driven models
+* 📊 SQL · Power BI · Business Analytics
+* 🧱 React · Node.js · Python · Java
+* 🔍 Testing mindset · Debugging · QA thinking
+* 📋 Interested in **Technical Project Management**
 
-```
-Raw Transaction Data
-        ↓
-Data Cleaning & Preprocessing
-        ↓
-Feature Engineering
-        ↓
-ML Model (Classification)
-        ↓
-Fraud Prediction (Legit / Fraud)
-```
+> *"Understand systems deeply. Execute with clarity. Deliver impact."*
 
 ---
 
-## ⚙️ Tech Stack
+## Domains
 
-* Python
-* Pandas, NumPy
-* Scikit-learn
-* Matplotlib / Seaborn
-* Jupyter Notebook
-
----
-
-## 🤖 Machine Learning Models Used
-
-* Logistic Regression
-* Random Forest
-* Decision Tree
+| Domain               | Focus                                | Tools                                            |
+| -------------------- | ------------------------------------ | ------------------------------------------------ |
+| ☁️ Cloud Engineering | Serverless, monitoring, scalability  | AWS Lambda · DynamoDB · API Gateway · CloudWatch |
+| 🧠 AI/ML Systems     | Fraud detection, pattern recognition | Python · Scikit-learn                            |
+| 📊 Data & Analytics  | BI dashboards, SQL insights          | SQL · PostgreSQL · Power BI                      |
+| 🧱 Full-Stack        | APIs & product development           | React · Node.js · Python                         |
+| 🔍 QA & Testing      | Validation, debugging                | Manual Testing · API Testing                     |
+| 📋 Technical PM      | Execution & coordination             | Agile · Documentation                            |
 
 ---
 
-## 📊 Model Evaluation
+## Tech Stack
 
-The model performance is evaluated using:
+**Cloud**
 
-* Accuracy
-* Precision
-* Recall
-* F1 Score
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazon-aws\&logoColor=FF9900)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square\&logo=aws-lambda\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square\&logo=amazon-dynamodb\&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square\&logo=amazon-api-gateway\&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square\&logo=amazon-cloudwatch\&logoColor=white)
 
-Focus is placed on **recall**, as missing a fraud is more critical than false alerts.
+**AI / Data**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
 
-## 🚀 Key Features
+**Development**
 
-* Detects fraudulent vs legitimate transactions
-* Handles imbalanced datasets
-* Identifies anomaly patterns
-* Scalable logic for real-world systems
-
----
-
-## 📁 Project Structure
-
-```
-FraudShield-AI/
-│── data/
-│── notebooks/
-│── model/
-│── src/
-│── README.md
-```
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
 
 ---
 
-## 📈 Future Improvements
+## Featured Projects
 
-* Deploy as REST API
-* Real-time fraud detection using streaming data
-* Deep learning models (LSTM, Autoencoders)
-* Integration with cloud (AWS Lambda, API Gateway)
+### 🚨 FraudShield AI
 
----
-
-## 💡 Key Learnings
-
-* Handling imbalanced datasets
-* Feature engineering importance
-* Trade-off between precision & recall
-* Real-world ML system thinking
+AI-based fraud detection system using ML models to identify anomalous transaction patterns
+**Tech:** Python · Scikit-learn · Data Analysis
+👉 https://github.com/tejas-0-5/fraudshield-ai
 
 ---
 
-## 👨‍💻 Author
+### ☁️ CloudPulse
 
-**Tejas Pathak**
-AWS Certified Cloud Practitioner
-B.Tech CSE
-
-📩 [asktejas05@gmail.com](mailto:asktejas05@gmail.com)
-🔗 https://www.linkedin.com/in/tejas-pathak-478310213/
+Serverless monitoring system using AWS with event-driven architecture and real-time alerts
+**Tech:** Lambda · DynamoDB · API Gateway · CloudWatch
+👉 https://github.com/tejas-0-5/cloudpulse
 
 ---
 
-## ⭐ Conclusion
+### 🥗 HealthiFy
 
-FraudShield AI demonstrates how machine learning can be applied to solve real-world financial fraud problems by detecting anomalies and improving system reliability.
+Full-stack fitness & nutrition tracking platform with dashboard and API backend
+**Tech:** React · Node.js · SQL
+👉 https://github.com/tejas-0-5/HealthiFy
 
 ---
+
+### 📊 Blinkit Dashboard
+
+Power BI dashboard for business insights, DAX analytics, and data modelling
+👉 https://github.com/tejas-0-5/BlinkitPowerBIDashboard
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=tejas-0-5&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0-5&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=5&cache_seconds=1800" />
+
+</div>
+
+---
+
+## Focus
+
+Currently focusing on:
+
+* AI-driven systems (Fraud detection, anomaly detection)
+* Cloud-based scalable architectures
+* Data analytics & dashboarding
+* Execution-focused project roles
+* Technical Project Management
+
+---
+
+<div align="center">
+
+Open to roles in **Cloud · AI/ML · Data · Technical Project Management**
+
+<br/>
+
+Let’s connect →
+https://www.linkedin.com/in/tejas-pathak-478310213/
+
+</div>
