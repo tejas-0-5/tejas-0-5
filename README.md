@@ -2,7 +2,7 @@
 
 # Tejas Pathak
 
-**Cloud · Data · AI Systems · Execution**
+**Cloud · AI Systems · Data · Execution**
 
 *Final-year B.Tech CSE · AWS Certified Cloud Practitioner*
 
@@ -20,13 +20,13 @@
 
 I'm a final-year Computer Science student working across cloud infrastructure, AI systems, data analytics, and full-stack development — with a strong focus on structured execution and real-world problem solving.
 
-I don’t just build features — I focus on **how systems behave, scale, fail, and recover**, and how to make them reliable.
+I focus on **how systems behave, scale, fail, and recover**, not just building features.
 
 * ☁️ AWS Certified · Serverless Architecture · Cloud Systems
-* 🧠 AI/ML Systems · Fraud Detection · Data-driven models
+* 🧠 AI/ML Systems · Fraud Detection · Pattern Recognition
 * 📊 SQL · Power BI · Business Analytics
 * 🧱 React · Node.js · Python · Java
-* 🔍 Testing mindset · Debugging · QA thinking
+* 🔍 Debugging · QA mindset · Validation thinking
 * 📋 Interested in **Technical Project Management**
 
 > *"Understand systems deeply. Execute with clarity. Deliver impact."*
@@ -35,14 +35,14 @@ I don’t just build features — I focus on **how systems behave, scale, fail, 
 
 ## Domains
 
-| Domain               | Focus                                | Tools                                            |
-| -------------------- | ------------------------------------ | ------------------------------------------------ |
-| ☁️ Cloud Engineering | Serverless, monitoring, scalability  | AWS Lambda · DynamoDB · API Gateway · CloudWatch |
-| 🧠 AI/ML Systems     | Fraud detection, pattern recognition | Python · Scikit-learn                            |
-| 📊 Data & Analytics  | BI dashboards, SQL insights          | SQL · PostgreSQL · Power BI                      |
-| 🧱 Full-Stack        | APIs & product development           | React · Node.js · Python                         |
-| 🔍 QA & Testing      | Validation, debugging                | Manual Testing · API Testing                     |
-| 📋 Technical PM      | Execution & coordination             | Agile · Documentation                            |
+| Domain               | Focus                               | Tools                                            |
+| -------------------- | ----------------------------------- | ------------------------------------------------ |
+| ☁️ Cloud Engineering | Serverless, monitoring, scalability | AWS Lambda · DynamoDB · API Gateway · CloudWatch |
+| 🧠 AI/ML Systems     | Fraud detection, anomaly detection  | Python · Scikit-learn                            |
+| 📊 Data & Analytics  | BI dashboards, SQL insights         | SQL · PostgreSQL · Power BI                      |
+| 🧱 Full-Stack        | APIs & product development          | React · Node.js · Python                         |
+| 🔍 QA & Testing      | Validation, debugging               | Manual Testing · API Testing                     |
+| 📋 Technical PM      | Execution & coordination            | Agile · Documentation                            |
 
 ---
 
@@ -108,9 +108,9 @@ Power BI dashboard for business insights, DAX analytics, and data modelling
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=tejas-0-5&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=tejas-0-5&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0-5&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=5&cache_seconds=1800" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0-5&layout=compact&exclude_repo=github-test&cache_seconds=86400" />
 
 </div>
 
@@ -123,7 +123,7 @@ Currently focusing on:
 * AI-driven systems (Fraud detection, anomaly detection)
 * Cloud-based scalable architectures
 * Data analytics & dashboarding
-* Execution-focused project roles
+* Execution-focused roles
 * Technical Project Management
 
 ---
